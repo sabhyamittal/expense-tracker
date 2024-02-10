@@ -19,8 +19,8 @@ import { format } from 'date-fns';
 import { deleteObject, getDownloadURL as getStorageDownloadURL, ref, uploadBytes } from 'firebase/storage';
 import { storage } from './firebase';
  
-// Bucket URL from Storage in Firebase Console
-const BUCKET_URL = "gs://exta-a1378.appspot.com";
+
+const BUCKET_URL =// Bucket URL from Storage in Firebase Console ;
  
 // Uploads image and returns the storage bucket
 export async function uploadImage(image, uid) {
