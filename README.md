@@ -5,8 +5,7 @@ Welcome to Expense Tracker, a powerful and user-friendly application built with 
 
 ## Getting Started
 
-To explore the app or contribute to its development, check out the code on [GitHub](#insert-your-github-link-here). Follow the instructions in the README file to set up the project locally.
-
+To explore the app or contribute to its development, check out the code on [GitHub](#https://github.com/sabhyamittal/expense-tracker).
 ## Features
 
 - **Intuitive User Interface:** The app provides a seamless and user-friendly experience, ensuring that tracking your expenses is easy and efficient.
