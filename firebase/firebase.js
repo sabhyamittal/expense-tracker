@@ -20,15 +20,9 @@ import { getAuth } from 'firebase/auth';
 import { getFirestore } from 'firebase/firestore';
 import { getStorage } from 'firebase/storage';
 
-// Configure Firebase.
+
 const firebaseConfig = {
-  apiKey: "AIzaSyCMiTaCwE16lln5IPDkAZuxM7lSmApjWSQ",
-  authDomain: "exta-a1378.firebaseapp.com",
-  projectId: "exta-a1378",
-  storageBucket: "exta-a1378.appspot.com",
-  messagingSenderId: "299202370365",
-  appId: "1:299202370365:web:01f568643e5f6a330e4354",
-  measurementId: "G-7GQBJ0ZQ4F"
+ // Configure Firebase.
 };
 
 export const app = initializeApp(firebaseConfig);
